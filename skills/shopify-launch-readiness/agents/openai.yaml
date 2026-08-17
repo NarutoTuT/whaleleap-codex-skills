@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Launch Readiness"
+  short_description: "Audit Shopify launch blockers and issue a go-live gate"
+  default_prompt: "Use $shopify-launch-readiness to audit this Shopify store for launch blockers, assign evidence-backed statuses and owners, and issue a go-live gate without changing the store."

@@ -1,0 +1,3 @@
+display_name: Co-Founder
+short_description: Strategic product decision-making for Shopify SaaS
+default_prompt: "/cofounder - Evaluate this Shopify App feature request from a co-founder perspective"

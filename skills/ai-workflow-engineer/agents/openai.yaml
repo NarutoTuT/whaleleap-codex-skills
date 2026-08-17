@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Workflow Engineer"
+  short_description: "Route complex work to minimal installed Skill owners"
+  default_prompt: "Use $ai-workflow-engineer to select the minimum installed Skill owners, sequence their handoffs, identify capability gaps, and stop before domain execution."

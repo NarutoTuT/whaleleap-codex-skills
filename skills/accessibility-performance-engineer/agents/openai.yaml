@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accessibility & Performance Engineer"
+  short_description: "Audit accessibility and storefront performance"
+  default_prompt: "Use $accessibility-performance-engineer to audit this storefront for WCAG barriers and performance bottlenecks, prioritize evidence-backed findings, and prepare implementation requirements without changing code."

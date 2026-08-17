@@ -1,0 +1,3 @@
+display_name: Motion Interaction Engineer
+short_description: Web motion strategy and interaction QA.
+default_prompt: Plan a production-ready motion and interaction strategy for this website or Shopify section. Include animation purpose, timeline, technology choice, responsive behavior, performance risks, accessibility, and implementation handoff.

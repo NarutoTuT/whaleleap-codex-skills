@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI/UX Pro Max"
+  short_description: "Search UI and UX reference datasets"
+  default_prompt: "Use $ui-ux-pro-max to run a targeted read-only search of the bundled UI/UX datasets, return candidate references and limitations, and hand final decisions to the appropriate design owner."

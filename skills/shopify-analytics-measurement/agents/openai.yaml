@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Analytics & Measurement"
+  short_description: "Design and audit trustworthy Shopify measurement"
+  default_prompt: "Use $shopify-analytics-measurement to define or audit this Shopify measurement system, map events and consent, validate data quality, and prepare implementation requirements without changing code."

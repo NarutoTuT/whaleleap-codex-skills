@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Agency Design System"
+  short_description: "Define Shopify CRO structure and storefront design requirements"
+  default_prompt: "Use $shopify-agency-design-system to define the Shopify storefront hierarchy, CRO rationale, responsive behavior, merchant-editable requirements, and implementation acceptance criteria without writing theme code."

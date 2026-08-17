@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Theme Release"
+  short_description: "Safely pull, push, publish, verify, and roll back themes"
+  default_prompt: "Use $shopify-theme-release-agent to lock the exact store, theme, local path, file scope, drift state, authorization, and rollback point before executing and remotely verifying a Shopify theme release."

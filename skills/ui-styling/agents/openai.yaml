@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Styling"
+  short_description: "Implement React UI with Tailwind, shadcn, and Radix"
+  default_prompt: "Use $ui-styling to implement this approved React interface with the repository's existing Tailwind, shadcn/ui, and Radix conventions, including responsive states and accessibility verification."

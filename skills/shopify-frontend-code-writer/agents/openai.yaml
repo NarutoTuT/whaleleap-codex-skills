@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Frontend Code Writer"
+  short_description: "Implement production Shopify Theme frontend code"
+  default_prompt: "Use $shopify-frontend-code-writer to implement this approved Shopify Theme requirement in Liquid, CSS, JavaScript, JSON, and schema using the existing theme architecture, then validate the scoped change without pushing it."

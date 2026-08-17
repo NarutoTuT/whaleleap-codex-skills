@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Impact Graph"
+  short_description: "Map code relationships and predict change risk"
+  default_prompt: "Use $code-impact-graph to map dependencies and predict the impact of this proposed code change before implementation."

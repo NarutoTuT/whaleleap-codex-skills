@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Section From Image"
+  short_description: "Reference image to Shopify Liquid section with tree approval first"
+  default_prompt: "Use $shopify-section-from-image-agent to inspect the target Shopify theme and reference image, produce a layout tree for approval, then implement the Liquid section only after approval. Validate schema JSON, scoped CSS, responsive behavior, and theme push target."

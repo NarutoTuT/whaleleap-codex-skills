@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Storefront QA"
+  short_description: "Run evidence-based Shopify storefront regression QA"
+  default_prompt: "Use $shopify-storefront-qa to test this Shopify storefront across required devices and interactions, report evidence-backed findings, and issue a release gate without modifying code."

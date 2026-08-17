@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Product CSV Upload"
+  short_description: "Analyze product spreadsheets and upload Shopify products after dry-run approval"
+  default_prompt: "Use $shopify-product-csv-upload-agent to analyze the product CSV/XLSX, map fields to Shopify products and variants, check duplicates, produce a dry-run plan for approval, then upload only after explicit approval and verify created products."
